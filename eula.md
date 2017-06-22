@@ -53,6 +53,7 @@ Developer reserves the right, at its sole discretion, to modify or replace this 
 ## Limited Warranty
 
 THE APPLICATION AND SERVICES AND CONTENT ARE PROVIDED ON AN “AS IS” BASIS AND AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMITTED BY LAW, DEVELOPER HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES OR CONDITIONS OF ANY KIND, WRITTEN OR ORAL, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF TITLE, NONINFRINGEMENT, MERCHANTABILITY, QUIET ENJOYMENT, ACCURACY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
 Without limiting any of the foregoing, Developer does not ensure continuous, error-free, secure or virus-free operation of the Application. Some states or countries do not allow the disclaimer of implied warranties, and the foregoing disclaimer may not be applicable to You. This warranty gives You specific legal rights, and You may also have other legal rights that vary from state to state or from country to country.
 
 ## Limitations on Damages
