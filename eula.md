@@ -18,12 +18,12 @@ Your use of the Application is also subject to the terms and conditions set fort
 
 You agree not to, and you will not permit others to:
 <ol type="a">
-<li>a) license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Application or make the Application available to any third party;</li>
-<li>b) decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the Application;</li>
-<li>c) make any modification, adaptation, improvement, enhancement, translation or derivative work from the Application;</li>
-<li>d) violate any applicable laws, rules or regulations in connection with Your access or use of the Application;</li>
-<li>e) remove, alter or obscure any proprietary notice (including any notice of copyright) of the Developer;</li>
-<li>f) use the Application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;</li>
+<li>license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Application or make the Application available to any third party;</li>
+<li>decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the Application;</li>
+<li>make any modification, adaptation, improvement, enhancement, translation or derivative work from the Application;</li>
+<li>violate any applicable laws, rules or regulations in connection with Your access or use of the Application;</li>
+<li>remove, alter or obscure any proprietary notice (including any notice of copyright) of the Developer;</li>
+<li>use the Application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;</li>
 </ol>
 
 Modifications to Application
