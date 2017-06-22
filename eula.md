@@ -26,7 +26,7 @@ You agree not to, and you will not permit others to:
 <li>use the Application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;</li>
 </ol>
 
-Modifications to Application
+## Modifications to Application
 
 Developer reserves the right to modify, suspend or discontinue, temporarily or permanently, the Application or any service to which it connects, with or without notice and without liability to you.
 
@@ -46,7 +46,7 @@ The Sections entitled “Restrictions”, “Severability”, “Limitations on 
 
 If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
 
-Amendments to this Agreement
+## Amendments to this Agreement
 
 Developer reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
