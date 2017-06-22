@@ -1,3 +1,3 @@
-Furry &amp; Wrath
+# Furry &amp; Wrath
 
 Hello everyone.
