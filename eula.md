@@ -2,7 +2,7 @@
 
 Last updated: 2017.06.21
 
-Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, downloading or using Furry & Wrath ("Application").
+Please read this End-User License Agreement ("Agreement") carefully before pressing the "I Agree" button, downloading or using Furry & Wrath ("Application").
 
 By pressing the "I Agree" button, downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
 
@@ -23,7 +23,7 @@ You agree not to, and you will not permit others to:
 <li>make any modification, adaptation, improvement, enhancement, translation or derivative work from the Application;</li>
 <li>violate any applicable laws, rules or regulations in connection with Your access or use of the Application;</li>
 <li>remove, alter or obscure any proprietary notice (including any notice of copyright) of the Developer;</li>
-<li>use the Application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;</li>
+<li>use the Application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended.</li>
 </ol>
 
 ## Modifications to Application
