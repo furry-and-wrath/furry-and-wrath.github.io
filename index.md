@@ -2,7 +2,7 @@
 
 ## Description
 
-Furry & Wrath is a violent puzzle game about vengeance and fur, and it is not meant to be played by kids.
+[Furry & Wrath](https://play.google.com/store/apps/details?id=game.furryandwrath.app&hl=en) is a violent puzzle game about vengeance and fur, and it is not meant to be played by kids.
 
 By downloading and playing this game you accept the terms of [End-User License Agreement](eula).
 
