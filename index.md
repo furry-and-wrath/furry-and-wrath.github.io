@@ -2,18 +2,27 @@
 
 ## Description
 
-[Furry & Wrath](https://play.google.com/store/apps/details?id=game.furryandwrath.app&hl=en) is a violent puzzle game about vengeance and fur. It features 60 levels in 3 episodes (the first episode is basically a tutorial).
+[Furry & Wrath](https://play.google.com/store/apps/details?id=game.furryandwrath.app&hl=en) is a violent puzzle game about vengeance and fur.
+It features 60 levels in 3 episodes, the first episode being kind of a tutorial.
 
 By downloading and playing this game you accept the terms of [End-User License Agreement](eula).
 
 ## Why does this game require write permissions?
 
-In order to save and load your game progress. Saved progress requires 285 bytes of storage. I can't tell you the exact location of save file, but it is somewhere around indie/furryandwrath on your SD-card. Probably. (please, read the [SDL2](https://libsdl.org) documentation for details)
+To save and load your game progress. Saved progress requires 285 bytes of storage.
+I don't know the exact location of save file, but it is somewhere around indie/furryandwrath on your SD-card. Probably.
+(you can read the [SDL2](https://libsdl.org) documentation for details)
 
 ## Why is this game free? Is there any hidden functionality?
 
-There is no hidden functionality at all. This game doesn't have any ads in it either, and it doesn't even use your network connection at all.
-This fact might change later, when and if achievements and leaderboards are added (it depends on how many people like this game and my overall level of lazyness).
+This game was originally my friend's idea (Dmitry Sadekov). He came up with initial design and I (Ildus Nezametdinov) implemented it.
+Then, after a few more iterations of this project, we published it on the app store.
+It didn't sell well, so my friend decided that it's just not worth to continue working on this project and moved on.
+I thought that since I've dedicated so much time to this game, I should at least publish it somewhere.
+It would not be fair to make this game non-free, so I decided to simply publish it as free to play, without any ads.
+
+As for any hidden functionality (like mining crypto or whatever), there is none. This game doesn't even use your network connection.
+At least if you downloaded this game from Google Play. If you downloaded this game from somewhere else, then there are no guarantees.
 
 ## Credits
 
