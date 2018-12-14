@@ -22,7 +22,7 @@ I thought that since I've dedicated so much time to this game, I should at least
 It would not be fair to make this game non-free, so I decided to simply publish it as free to play, without any ads.
 
 As for any hidden functionality (like mining crypto or whatever), there is none. This game doesn't even use your network connection.
-At least if you downloaded this game from Google Play. If you downloaded this game from somewhere else, then there are no guarantees.
+In case you downloaded this game from Google Play, that is. If you downloaded this game from somewhere else, then there are no guarantees.
 
 ## Credits
 
